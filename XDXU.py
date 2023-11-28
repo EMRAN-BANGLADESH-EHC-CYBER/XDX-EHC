@@ -5,4 +5,4 @@
 
 import os
 import XDX
-XDX.loging.()
+XDX.loging()
